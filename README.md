@@ -1,5 +1,6 @@
-## Hi, I'm Anoop jangra! 👋🤓
+## Hi, I'm Anoop Jangra! 👋🤓
 ---
+
 [![Twitter: anojangra](https://img.shields.io/twitter/follow/anojangra?style=social)](https://twitter.com/anojangra)
 [![Linkedin: anojangra](https://img.shields.io/badge/-anoopjangra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anoopjangra/)](https://www.linkedin.com/in/anoopjangra/)
 [![GitHub anojangra](https://img.shields.io/github/followers/anojangra?label=follow&style=social)](https://github.com/anojangra)

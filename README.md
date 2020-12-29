@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+ 
 <div align="right">
   
 [![HitCount](http://hits.dwyl.com/anojangra/anojangra.svg)](http://hits.dwyl.com/anojangra/anojangra) ![ViewCount](https://views.whatilearened.today/views/github/anojangra/anojangra.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://anojangra.github.io/anojangra/)
